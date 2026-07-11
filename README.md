@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Samarth 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,100:0E75B6&height=200&section=header&text=Hi,%20I'm%20Samarth%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+NIT+Jalandhar;Full-Stack+Web+Developer;Cybersecurity+%7C+CTF+Builder;AI%2FML+%7C+RAG+Enthusiast" alt="Typing SVG" />
@@ -6,22 +8,26 @@
 
 <p align="center">
   <a href="https://github.com/Roverang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Replace the # below with your actual LinkedIn URL -->
+  <!-- Replace # with your actual LinkedIn URL -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:samarthch21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- Replace the # below with your portfolio URL, if you have one -->
+  <!-- Replace # with your portfolio URL -->
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <!-- Replace the # below with your X/Twitter URL -->
+  <!-- Replace # with your X/Twitter URL -->
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Roverang&label=Profile%20Views&color=F7DF1E&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Roverang&label=Profile%20Views&color=F7DF1E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Collab-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-VidyAstra%20AI-blueviolet?style=for-the-badge" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7DF1E,100:0E75B6&height=3&width=1000" />
+</p>
 
-### About Me
+### 🧑‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering, **NIT Jalandhar** (2024 – Present)
 - 🛡️ Tech Head, **Cybersecurity Club, NIT Jalandhar** — built CTF infrastructure & incident response frameworks
@@ -30,9 +36,11 @@
 - 🏆 National-level hackathon finalist — **Smart India Hackathon**, **Prometeo (IIT Jodhpur)**
 - 💬 Ask me about full-stack dev, cybersecurity/CTFs, or RAG-based AI assistants
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:F7DF1E&height=3&width=1000" />
+</p>
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -58,9 +66,11 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7DF1E,100:0E75B6&height=3&width=1000" />
+</p>
 
-### Featured Projects
+### 🚀 Featured Projects
 
 <!-- Replace REPO-NAME with your actual repo names for these to render -->
 <table>
@@ -98,9 +108,11 @@ Full-stack platform for listing, discovering, and exchanging reusable clothing t
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:F7DF1E&height=3&width=1000" />
+</p>
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Roverang&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -115,9 +127,18 @@ Full-stack platform for listing, discovering, and exchanging reusable clothing t
   <img src="https://github-profile-trophy.vercel.app/?username=Roverang&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
----
+### 🐍 Contribution Snake
 
-### Achievements
+<!-- This animates once you add the GitHub Action from the setup guide -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Roverang/Roverang/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7DF1E,100:0E75B6&height=3&width=1000" />
+</p>
+
+### 🏆 Achievements
 
 - 🏅 **ISGE** — Selected to showcase Xplore-X alongside Decathlon, COSCO & STAG
 - 🥇 **Coding Ninjas Slayground** — Ranked Top 100 nationally
@@ -125,8 +146,12 @@ Full-stack platform for listing, discovering, and exchanging reusable clothing t
 - 🚩 **RootBreach'26** — Organized a 24-hour national-level CTF under Utkansh'26
 - 🎯 **Prometeo, IIT Jodhpur** — Represented NIT Jalandhar at national hackathon
 
----
+### 💭 Random Dev Quote
 
 <p align="center">
-  <i>Building at the intersection of full-stack development, cybersecurity, and AI.</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:F7DF1E&height=120&section=footer" />
 </p>
