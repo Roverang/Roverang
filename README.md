@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,100:0E75B6&height=200&section=header&text=Hi,%20I'm%20Samarth%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Samarth%20Chakrawarti&fontSize=45&fontColor=64ffda&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+NIT+Jalandhar;Full-Stack+Web+Developer;Cybersecurity+%7C+CTF+Builder;AI%2FML+%7C+RAG+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+NIT+Jalandhar;Full-Stack+Web+Developer;Cybersecurity+%7C+CTF+Builder;AI%2FML+%7C+RAG+Enthusiast" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -12,19 +12,19 @@
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:samarthch21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <!-- Replace # with your portfolio URL -->
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <!-- Replace # with your X/Twitter URL -->
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Roverang&label=Profile%20Views&color=F7DF1E&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Collab-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building-VidyAstra%20AI-blueviolet?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Roverang&label=Profile%20Views&color=2c5364&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Collab-0f2027?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-VidyAstra%20AI-2c5364?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7DF1E,100:0E75B6&height=3&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=1000" />
 </p>
 
 ### 🧑‍💻 About Me
@@ -37,7 +37,7 @@
 - 💬 Ask me about full-stack dev, cybersecurity/CTFs, or RAG-based AI assistants
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:F7DF1E&height=3&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&width=1000" />
 </p>
 
 ### 🛠️ Tech Stack
@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7DF1E,100:0E75B6&height=3&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=1000" />
 </p>
 
 ### 🚀 Featured Projects
@@ -109,7 +109,7 @@ Full-stack platform for listing, discovering, and exchanging reusable clothing t
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:F7DF1E&height=3&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&width=1000" />
 </p>
 
 ### 📊 GitHub Stats
@@ -129,13 +129,12 @@ Full-stack platform for listing, discovering, and exchanging reusable clothing t
 
 ### 🐍 Contribution Snake
 
-<!-- This animates once you add the GitHub Action from the setup guide -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Roverang/Roverang/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7DF1E,100:0E75B6&height=3&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=1000" />
 </p>
 
 ### 🏆 Achievements
@@ -153,5 +152,5 @@ Full-stack platform for listing, discovering, and exchanging reusable clothing t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:F7DF1E&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
 </p>
